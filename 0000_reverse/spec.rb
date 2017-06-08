@@ -1,7 +1,7 @@
 
 def foo(a)
 
-  a
+  # TODO
 end
 
 context 'quiz 0000' do

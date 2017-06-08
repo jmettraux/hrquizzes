@@ -2,7 +2,7 @@
 
 def foo(a)
 
-  -1
+  # TODO
 end
 
 DATA = [
