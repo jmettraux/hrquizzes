@@ -8,7 +8,7 @@ end
 DATA = [ 100, 230, 456, 231, 678, 789, 309 ]
 
 
-context 'quiz 0004' do
+context 'quiz 0005' do
 
   describe 'foo' do
 
