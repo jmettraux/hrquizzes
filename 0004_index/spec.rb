@@ -12,7 +12,7 @@ context 'quiz 0004' do
 
   describe 'foo' do
 
-    it "works" do
+    it "indexes and sorts an array" do
 
       expect(
         foo(DATA)
