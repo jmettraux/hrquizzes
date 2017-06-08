@@ -4,7 +4,8 @@ def foo(a)
   # TODO
 end
 
-context 'quiz 0000' do
+
+context 'quiz 0002' do
 
   describe 'foo' do
 
