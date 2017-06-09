@@ -1,5 +1,5 @@
 
-def foo(a)
+def foo
 
   # TODO
 end

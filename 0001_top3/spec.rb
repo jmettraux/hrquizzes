@@ -19,7 +19,7 @@ context 'quiz 0001' do
 
   describe 'foo' do
 
-    it "computes the sum of yearly salary of the 3 top employees" do
+    it "computes the sum of the yearly salaries of the 3 top employees" do
 
       expect(foo(DATA)).to eq(12 * (6_000 + 7_000 + 8_000))
     end
